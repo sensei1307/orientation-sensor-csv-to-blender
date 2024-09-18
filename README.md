@@ -1,7 +1,7 @@
 # Orientation sensor csv to blender
 Transfer smartphone orientation csv data to blender object
 
-This blender script allows you to import **orientation sensor data** recorded in any **sensor logging app** (preferably [Sensor Logger](https://play.google.com/store/apps/details?id=com.kelvin.sensorapp&hl=en_IN) for android) **with the ability to export data in csv format.**
+A tiny blender script that allows you to import **orientation sensor data** recorded in any **sensor logging app** (preferably [Sensor Logger](https://play.google.com/store/apps/details?id=com.kelvin.sensorapp&hl=en_IN) for android) **with the ability to export data in csv format.**
 
 ![camera in blender rotating](https://github.com/sensei1307/orientation-sensor-csv-to-blender/blob/main/ezgif-4-732b713947.gif?raw=true)
 
