@@ -1,2 +1,3 @@
-# sensor-csv-to-blender
+# Sensor csv to blender
 Transfer smartphone orientation csv data to blender object
+
