@@ -16,7 +16,7 @@ This blender script allows you to import **orientation sensor data** recorded in
 
 ## Steps:
  - [ ] Record and export **orientation csv file**
- - [ ] Open blender and paste in the script in the scripting tab
+ - [ ] Open blender and paste **orientation_sensor_csv_to_blender.py** in the script in the scripting tab
  - [ ] Paste orientation **csv file path in the script** (instructed)
  - [ ] Open the csv file in a spreadsheet app and note down column positions for above mentioned required columns **(zero-indexing to be accounted for)**
  - [ ] Paste column positions in the script (instructed)
